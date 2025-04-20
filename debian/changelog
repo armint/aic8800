@@ -4,7 +4,7 @@ aic8800 (3.0+git20240327.3561b08f-4) noble; urgency=medium
   * really fix build for kernel 6.12
   * really fix build for kernel 6.13
 
- -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Mon, 10 Mar 2025 02:41:55 +0000
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Sun, 20 Apr 2025 19:27:32 +0200
 
 aic8800 (3.0+git20240327.3561b08f-3) noble; urgency=medium
 
